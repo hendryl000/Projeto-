@@ -3,6 +3,11 @@
     <img src="https://user-images.githubusercontent.com/80292331/228837470-aeee2713-f2a0-478c-b26b-6ef1b6855eed.png"
 </div><br>
 Projeto 01
+    <h3>Curso:</h3><br>
+    <p>
+        Eng.Software
+    </p>
+
     <h3>Equipe:</h3>
     <p>
         Eduardo Freira<br>
@@ -10,6 +15,20 @@ Projeto 01
         Matheus Beiruth<br>
         Deivison Alexandre
     </p>
+    
+    <h3>Disciplina:</h3>
+        <p>
+            Estrutura de Dados
+        </p>
+    <h3>Período:</h3>
+        <p>
+            Terceiro Periíodo
+        </p>
+    <h3>Professor:</h3>
+        <p>
+            Marcio
+        </p>
+    
 <div align = "left">
 <h3>#importações e Elementos:</h3><br>
 import time<br>
