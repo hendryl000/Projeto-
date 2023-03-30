@@ -10,6 +10,7 @@ Projeto 01
         Matheus Beiruth<br>
         Deivison Alexandre
     </p>
+<div align = "left">
 import time
 import matplotlib.pyplot as plt
 
@@ -60,3 +61,4 @@ plt.xlabel('Valor de lista_ordenada')
 plt.ylabel('Tempo de execução (micro segundos)')
 plt.show()
 
+                          </div>
