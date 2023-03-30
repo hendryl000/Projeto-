@@ -12,8 +12,8 @@ Projeto 01
     </p>
 <div align = "left">
 #importações e Elementos:<br>
-import time
-import matplotlib.pyplot as plt
+import time<br>
+import matplotlib.pyplot as plt<br>
 
 elementos = [[0, 1, 2, 3],[11, 12, 13, 4],[10, 15, 14, 5],[9, 8, 7, 6]]
 
