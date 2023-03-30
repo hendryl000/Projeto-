@@ -17,17 +17,17 @@ Projeto 01
     </p>
     
     <h3>Disciplina:</h3>
-        <p>
-            Estrutura de Dados
-        </p>
+    <p>
+        Estrutura de Dados
+    </p>
     <h3>Período:</h3>
-        <p>
-            Terceiro Periíodo
-        </p>
+    <p>
+        Terceiro Periíodo
+    </p>
     <h3>Professor:</h3>
-        <p>
-            Marcio
-        </p>
+    <p>
+        Marcio
+    </p>
     
 <div align = "left">
 <h3>#importações e Elementos:</h3><br>
