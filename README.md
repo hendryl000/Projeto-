@@ -5,28 +5,22 @@
 </div><br>
 <div align="center">
 <h3>Projeto 01</h3><br>
-Curso:<br>
+<h3>Curso:</h3><br>
 Eng.Software
     
-
-<h3>Equipe:</h3>
-    
+<h3>Equipe:</h3>   
 Eduardo Freira<br>
 Hendryl<br>
 Matheus Beiruth<br>
 Deivison Alexandre
-    
-    
+     
 <h3>Disciplina:</h3><br>
-   
 Estrutura de Dados
 
 <h3>Período:</h3><br>
-    
 Terceiro Periíodo
     
 <h3>Professor:</h3><br>
-    
 Marcio
 </div><br>
 <div align = "left">
