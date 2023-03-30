@@ -4,7 +4,7 @@
 </div>
 Projeto 01
     <h3>Equipe:</h3>
-    <p>
+    <p color="red">
         Eduardo Freira
         Hendryl
         Matheus Beiruth
