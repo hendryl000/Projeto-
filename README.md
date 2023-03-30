@@ -9,25 +9,25 @@ Projeto 01
     </p>
 
     <h3>Equipe:</h3><br>
-    <p>
+    
         Eduardo Freira<br>
         Hendryl<br>
         Matheus Beiruth<br>
         Deivison Alexandre
-    </p>
+    
     
     <h3>Disciplina:</h3><br>
-    <p>
+   
         Estrutura de Dados
-    </p>
+    
     <h3>Período:</h3><br>
-    <p>
+    
         Terceiro Periíodo
-    </p>
+    
     <h3>Professor:</h3><br>
-    <p>
+    
         Marcio
-    </p>
+    
     
 <div align = "left">
 <h3>#importações e Elementos:</h3><br>
