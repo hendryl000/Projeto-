@@ -4,8 +4,8 @@
 
 </div><br>
 <div align="center">
-<h3>Projeto 01</h3><br>
-<h3>Curso:</h3><br>
+<h3>Projeto 01</h3>
+<h3>Curso:</h3>
 Eng.Software
     
 <h3>Equipe:</h3>   
@@ -14,13 +14,13 @@ Hendryl<br>
 Matheus Beiruth<br>
 Deivison Alexandre
      
-<h3>Disciplina:</h3><br>
+<h3>Disciplina:</h3>
 Estrutura de Dados
 
-<h3>Período:</h3><br>
+<h3>Período:</h3>
 Terceiro Periíodo
     
-<h3>Professor:</h3><br>
+<h3>Professor:</h3>
 Marcio
 </div><br>
 <div align = "left">
