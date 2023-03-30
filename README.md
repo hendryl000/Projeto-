@@ -8,7 +8,7 @@ Projeto 01
         Eng.Software
     </p>
 
-    <h3>Equipe:</h3>
+    <h3>Equipe:</h3><br>
     <p>
         Eduardo Freira<br>
         Hendryl<br>
@@ -16,15 +16,15 @@ Projeto 01
         Deivison Alexandre
     </p>
     
-    <h3>Disciplina:</h3>
+    <h3>Disciplina:</h3><br>
     <p>
         Estrutura de Dados
     </p>
-    <h3>Período:</h3>
+    <h3>Período:</h3><br>
     <p>
         Terceiro Periíodo
     </p>
-    <h3>Professor:</h3>
+    <h3>Professor:</h3><br>
     <p>
         Marcio
     </p>
