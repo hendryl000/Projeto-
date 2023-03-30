@@ -4,12 +4,12 @@
 
 </div><br>
 <div align="center">
-Projeto 01
-Curso:
+<h3>Projeto 01</h3><br>
+Curso:<br>
 Eng.Software
     
 
-Equipe:
+<h3>Equipe:</h3>
     
 Eduardo Freira<br>
 Hendryl<br>
@@ -17,15 +17,15 @@ Matheus Beiruth<br>
 Deivison Alexandre
     
     
-Disciplina:
+<h3>Disciplina:</h3><br>
    
 Estrutura de Dados
 
-Período:
+<h3>Período:</h3><br>
     
 Terceiro Periíodo
     
-Professor:
+<h3>Professor:</h3><br>
     
 Marcio
 </div><br>
