@@ -34,7 +34,7 @@ Já a função Fibonacci é um problema matemático clássico que consiste em de
 Além disso, o código armazena os valores de tempo de execução da função Fibonacci para diferentes valores de entrada e plota um gráfico que mostra a relação entre o tamanho da entrada e o tempo de execução. Essa técnica é comumente utilizada para analisar a complexidade temporal de algoritmos, e pode ser útil para avaliar o desempenho de diferentes soluções para o mesmo problema.
 </div><br>
 <div align = "left">
-
+    <h3>Codigo / Explicação</h3>
 <h3>#importações e Elementos:</h3><br>
 import time<br>
 import matplotlib.pyplot as plts<br>
