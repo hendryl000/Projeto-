@@ -4,12 +4,12 @@
 
 </div><br>
     Projeto 01
-    <h3>Curso:</h3><br>
+    Curso:
     
         Eng.Software
     
 
-    <h3>Equipe:</h3><br>
+    Equipe:
     
         Eduardo Freira<br>
         Hendryl<br>
@@ -17,15 +17,15 @@
         Deivison Alexandre
     
     
-    <h3>Disciplina:</h3><br>
+    Disciplina:
    
         Estrutura de Dados
     
-    <h3>Período:</h3><br>
+    Período:
     
         Terceiro Periíodo
     
-    <h3>Professor:</h3><br>
+    Professor:
     
         Marcio
     
