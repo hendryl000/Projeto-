@@ -24,6 +24,16 @@ Terceiro Período
 Marcio
 </div><br>
 <div align = "left">
+<h3>Introdução</h3>
+O código em Python apresenta duas tarefas distintas: ordenação de uma matriz e a execução da função Fibonacci para diferentes valores de entrada.
+
+A ordenação de uma matriz é um problema comum na ciência da computação, e existem várias técnicas para solucioná-lo. Nesse caso, o código utiliza a técnica de percorrer cada linha da matriz, adicionar todos os elementos da linha a uma lista e, em seguida, ordenar essa lista em ordem crescente e decrescente usando as funções sort() e reverse(), respectivamente.
+
+Já a função Fibonacci é um problema matemático clássico que consiste em determinar o n-ésimo termo de uma sequência numérica. A sequência é definida como a soma dos dois termos anteriores, sendo que os dois primeiros termos são 0 e 1. O código utiliza uma função recursiva para calcular o n-ésimo termo da sequência Fibonacci.
+
+Além disso, o código armazena os valores de tempo de execução da função Fibonacci para diferentes valores de entrada e plota um gráfico que mostra a relação entre o tamanho da entrada e o tempo de execução. Essa técnica é comumente utilizada para analisar a complexidade temporal de algoritmos, e pode ser útil para avaliar o desempenho de diferentes soluções para o mesmo problema.
+</div><br>
+<div align = "left">
 
 <h3>#importações e Elementos:</h3><br>
 import time<br>
