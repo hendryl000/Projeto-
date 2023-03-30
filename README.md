@@ -3,8 +3,9 @@
     <img src="https://user-images.githubusercontent.com/80292331/228837470-aeee2713-f2a0-478c-b26b-6ef1b6855eed.png">
 
 </div><br>
-<div align="center">
-    Projeto 01
+
+<div align = "left">
+ Projeto 01
     Curso:
         Eng.Software
     
@@ -28,9 +29,6 @@
     Professor:
     
         Marcio
-    
-</div><br>    
-<div align = "left">
 <h3>#importações e Elementos:</h3><br>
 import time<br>
 import matplotlib.pyplot as plts<br>
