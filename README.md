@@ -12,7 +12,8 @@ Eng.Software
 Eduardo Freira<br>
 Hendryl<br>
 Matheus Beiruth<br>
-Deivison Alexandre
+Deivison Alexandre<br>
+Matheus Sousa 
      
 <h3>Disciplina:</h3>
 Estrutura de Dados
