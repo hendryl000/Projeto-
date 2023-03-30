@@ -1,13 +1,13 @@
 
 <div align="center">
     <img src="https://user-images.githubusercontent.com/80292331/228837470-aeee2713-f2a0-478c-b26b-6ef1b6855eed.png"
-</div>
+</div><br>
 Projeto 01
     <h3>Equipe:</h3>
     <p color="red">
-        Eduardo Freira
-        Hendryl
-        Matheus Beiruth
+        Eduardo Freira<br>
+        Hendryl<br>
+        Matheus Beiruth<br>
         Deivison Alexandre
     </p>
 import time
