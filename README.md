@@ -2,8 +2,14 @@
 <div align="center">
     <img src="https://user-images.githubusercontent.com/80292331/228837470-aeee2713-f2a0-478c-b26b-6ef1b6855eed.png"
 </div>
-# Projeto-
-Equipe
+Projeto 01
+    <h3>Equipe:</h3>
+    <p>
+        Eduardo Freira
+        Hendryl
+        Matheus Beiruth
+        Deivison Alexandre
+    </p>
 import time
 import matplotlib.pyplot as plt
 
