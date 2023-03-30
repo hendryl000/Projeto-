@@ -11,45 +11,45 @@ Projeto 01
         Deivison Alexandre
     </p>
 <div align = "left">
-#importações e Elementos:<br>
+<h3>#importações e Elementos:</h3><br>
 import time<br>
-import matplotlib.pyplot as plt<br>
+import matplotlib.pyplot as plts<br>
 
 elementos = [[0, 1, 2, 3],[11, 12, 13, 4],[10, 15, 14, 5],[9, 8, 7, 6]]
 
-#Definir a lista vazia para armazenar os elementos ordenados:<br>
+<h3>#Definir a lista vazia para armazenar os elementos ordenados:</h3><br>
 lista_ordenada = []
 
-#Loop para percorrer todas as linhas da matriz:<br>
+<h3>#Loop para percorrer todas as linhas da matriz:</h3><br>
 for linha in elementos:
 
-#Adicionar todos os elementos da linha à lista:<br>
+<h3>#Adicionar todos os elementos da linha à lista:</h3><br>
     lista_ordenada.extend(linha)
 
-#Ordenar a lista em ordem crescente:<br>
+<h3>#Ordenar a lista em ordem crescente:</h3><br>
     lista_ordenada.sort()
 
-#Imprimir a lista ordenada e sua notação Big'O:<br>
+<h3>#Imprimir a lista ordenada e sua notação Big'O:</h3><br>
 print("Lista ordenada em ordem crescente: ", lista_ordenada)
 
-#Ordenar a lista em ordem decrescente:<br>
+<h3>#Ordenar a lista em ordem decrescente:</h3><br>
 lista_ordenada.reverse()
 
-#Imprimir a lista ordenada e sua notação Big'O:<br>
+<h3>#Imprimir a lista ordenada e sua notação Big'O:</h3><br>
 print("Lista ordenada em ordem decrescente: ", lista_ordenada)
     
-#grafico:<br>
+<h3>#grafico:</h3><br>
 
 def fib(lista_ordenada):
     if lista_ordenada <= 1:
         return lista_ordenada
     return fib(lista_ordenada - 1) + fib(lista_ordenada - 2)
 
-# listas para armazenar os valores de n e o tempo de execução:<br>
+<h3># listas para armazenar os valores de n e o tempo de execução:</h3><br>
 ns = []
 tempos = []
 
-# Valor de lista_ordenada:<br>
+<h3># Valor de lista_ordenada:</h3><br>
 for lista_ordenada in range(1, 16):
     start = time.perf_counter()
     result= fib(lista_ordenada)
@@ -58,7 +58,7 @@ for lista_ordenada in range(1, 16):
     ns.append(lista_ordenada)
     tempos.append(ms)
 print(result)
-# cria o gráfico:<br>
+    <h3># cria o gráfico:</h3><br>
 plt.plot(ns, tempos)
 plt.xlabel('Valor de lista_ordenada')
 plt.ylabel('Tempo de execução (micro segundos)')
