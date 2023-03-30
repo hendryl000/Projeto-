@@ -18,7 +18,7 @@ Deivison Alexandre
 Estrutura de Dados
 
 <h3>Período:</h3>
-Terceiro Periíodo
+Terceiro Período
     
 <h3>Professor:</h3>
 Marcio
