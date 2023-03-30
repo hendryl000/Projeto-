@@ -61,4 +61,4 @@ plt.xlabel('Valor de lista_ordenada')
 plt.ylabel('Tempo de execução (micro segundos)')
 plt.show()
 
-                          </div>
+</div>
