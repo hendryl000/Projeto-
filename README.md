@@ -54,7 +54,7 @@ for linha in elementos:
 print("Lista ordenada em ordem crescente: ", lista_ordenada)
 
 <h3>#Ordenar a lista em ordem decrescente:</h3><br>
-<img src="https://user-images.githubusercontent.com/80292331/230398581-23075d84-38e7-4e45-9570-c0b919d84e4f.png"
+<img src="https://user-images.githubusercontent.com/80292331/230398581-23075d84-38e7-4e45-9570-c0b919d84e4f.png">
 lista_ordenada.reverse()
 
 <h3>#Imprimir a lista ordenada e sua notação Big'O:</h3><br>
