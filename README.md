@@ -3,7 +3,7 @@
     <img src="https://user-images.githubusercontent.com/80292331/228837470-aeee2713-f2a0-478c-b26b-6ef1b6855eed.png">
 
 </div><br>
-<div align="center">
+<div align="left">
 <h3>Projeto 01</h3>
 <h3>Curso:</h3>
 Eng.Software
