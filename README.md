@@ -4,7 +4,7 @@
 
 </div><br>
 <div align="left">
-<center><h3>Projeto 01</h3></center>
+<h3>Projeto 01</h3>
 <h3>Curso:</h3>Eng.Software
     
 <h3>Equipe:</h3>   
