@@ -48,7 +48,7 @@ for linha in elementos:
     lista_ordenada.extend(linha)
 
 <h3>#Ordenar a lista em ordem crescente:</h3><br>
-    lista_ordenada.sort()
+    <img src="https://user-images.githubusercontent.com/80292331/230398491-235344dd-8c9b-4d1e-8c83-f54b6ae4a4a4.png">
 
 <h3>#Imprimir a lista ordenada e sua notação Big'O:</h3><br>
 print("Lista ordenada em ordem crescente: ", lista_ordenada)
