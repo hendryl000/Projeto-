@@ -8,10 +8,10 @@
 <h3>Curso:</h3>Eng.Software
     
 <h3>Equipe:</h3>   
-Eduardo Freira,
-Hendryl,
-Matheus Beiruth,
-Deivison Alexandre,
+Eduardo Freira,<br>
+Hendryl,<br>
+Matheus Beiruth,<br>
+Deivison Alexandre,<br>
 Matheus Sousa 
      
 <h3>Disciplina:</h3>Estrutura de Dados
