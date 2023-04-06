@@ -5,8 +5,7 @@
 </div><br>
 <div align="left">
 <h3>Projeto 01</h3>
-<h3>Curso:</h3>
-Eng.Software
+<h3>Curso:</h3>Eng.Software
     
 <h3>Equipe:</h3>   
 Eduardo Freira,
@@ -15,14 +14,11 @@ Matheus Beiruth,
 Deivison Alexandre,
 Matheus Sousa 
      
-<h3>Disciplina:</h3>
-Estrutura de Dados
+<h3>Disciplina:</h3>Estrutura de Dados
 
-<h3>Período:</h3>
-Terceiro Período
+<h3>Período:</h3>Terceiro Período
     
-<h3>Professor:</h3>
-Marcio
+<h3>Professor:</h3>Marcio
 </div><br>
 <div align = "left">
 <h3>Introdução</h3>
