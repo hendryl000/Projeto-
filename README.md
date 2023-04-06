@@ -9,10 +9,10 @@
 Eng.Software
     
 <h3>Equipe:</h3>   
-Eduardo Freira<br>
-Hendryl<br>
-Matheus Beiruth<br>
-Deivison Alexandre<br>
+Eduardo Freira,
+Hendryl,
+Matheus Beiruth,
+Deivison Alexandre,
 Matheus Sousa 
      
 <h3>Disciplina:</h3>
