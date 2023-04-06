@@ -45,7 +45,7 @@ lista_ordenada = []
 for linha in elementos:
 
 <h3>#Adicionar todos os elementos da linha à lista:</h3><br>
-    lista_ordenada.extend(linha)
+    <img src="https://user-images.githubusercontent.com/80292331/230398346-42558584-0642-41ab-a786-cb9d45be4f91.png">
 
 <h3>#Ordenar a lista em ordem crescente:</h3><br>
     <img src="https://user-images.githubusercontent.com/80292331/230398491-235344dd-8c9b-4d1e-8c83-f54b6ae4a4a4.png">
